@@ -4,6 +4,7 @@
   "description": "this is just a test module; don't use",
   "main": "index.js",
   "scripts": {
+    "test": "exit 1"
   },
   "repository": {
     "type": "git",
