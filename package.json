@@ -1,6 +1,6 @@
 {
   "name": "smassa-dummy-module",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "this is just a test module; don't use",
   "main": "index.js",
   "scripts": {
