@@ -1,0 +1,17 @@
+{
+  "name": "smassa-dummy-module",
+  "version": "1.0.0",
+  "description": "this is just a test module; don't use",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EndangeredMassa/node-dummy-module.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/EndangeredMassa/node-dummy-module/issues"
+  },
+  "homepage": "https://github.com/EndangeredMassa/node-dummy-module"
+}
