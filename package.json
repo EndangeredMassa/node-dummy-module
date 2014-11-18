@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/EndangeredMassa/node-dummy-module/issues"
   },
-  "homepage": "https://github.com/EndangeredMassa/node-dummy-module"
+  "homepage": "https://github.com/EndangeredMassa/node-dummy-module",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  }
 }
