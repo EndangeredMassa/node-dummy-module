@@ -1,10 +1,9 @@
 {
   "name": "smassa-dummy-module",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "this is just a test module; don't use",
   "main": "index.js",
   "scripts": {
-    "prepublish": "make build && npub verify",
     "pretest": "make build",
     "test": "echo 'some testing stuff!' && exit 0",
     "posttest": "npub verify"
