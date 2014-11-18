@@ -1,3 +1,4 @@
+license header injection works and respects config
 v1.1.1
 doing stuff
 
