@@ -4,7 +4,10 @@
   "description": "this is just a test module; don't use",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'some testing stuff!' && exit 0"
+    "prepublish": "make build && npub verify",
+    "pretest": "make build",
+    "test": "echo 'some testing stuff!' && exit 0",
+    "posttest": "npub verify"
   },
   "repository": {
     "type": "git",
@@ -15,11 +18,9 @@
     "url": "https://github.com/EndangeredMassa/node-dummy-module/issues"
   },
   "publishConfig": {
-    "license": {
-      "exclude": [
-        "lib"
-      ]
-    }
+    "exclude": [
+      "lib"
+    ]
   },
   "homepage": "https://github.com/EndangeredMassa/node-dummy-module",
   "devDependencies": {
