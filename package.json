@@ -17,9 +17,11 @@
     "url": "https://github.com/EndangeredMassa/node-dummy-module/issues"
   },
   "publishConfig": {
-    "exclude": [
-      "lib"
-    ]
+    "license": {
+      "exclude": [
+        "lib"
+      ]
+    }
   },
   "homepage": "https://github.com/EndangeredMassa/node-dummy-module",
   "devDependencies": {
