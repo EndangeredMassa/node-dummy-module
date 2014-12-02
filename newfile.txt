@@ -1,4 +1,3 @@
 hello my name is
 some new file text 7
-
 and some more new content
