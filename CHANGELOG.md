@@ -1,3 +1,8 @@
+1.3.0
+-----
+19aa717 more content
+9e473fd Another test
+
 1.2.5
 =====
 24add39 who knows
