@@ -7,5 +7,8 @@ module.exports = class Dummy
   thing: ->
     "other thing"
 
+  whoops: ->
+    "dhh"
+
   else: ->
     "ok"
