@@ -1,3 +1,7 @@
+1.4.2
+-----
+Another test
+
 1.4.1
 -----
 Testing
