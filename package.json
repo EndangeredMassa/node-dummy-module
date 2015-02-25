@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "pretest": "make build",
-    "test": "echo 'some testing stuff!' && exit 0",
+    "test": "echo 'some testing stuff!'",
     "posttest": "npub verify"
   },
   "repository": {
