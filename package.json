@@ -17,6 +17,7 @@
     "url": "https://github.com/EndangeredMassa/node-dummy-module/issues"
   },
   "publishConfig": {
+    "registry": "http://npm-registry.snc1",
     "license": {
       "exclude": [
         "lib"
