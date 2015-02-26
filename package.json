@@ -29,6 +29,6 @@
     "coffee-script": "^1.8.0"
   },
   "dependencies": {
-    "request": "^2.53.0"
+    "keldor-crash-handler": "^1.0.1"
   }
 }
