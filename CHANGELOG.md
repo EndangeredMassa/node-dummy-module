@@ -1,3 +1,7 @@
+1.23.0
+------
+39ec881 lock down coffee-script version
+
 1.22.0
 ------
 
