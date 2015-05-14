@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/EndangeredMassa/node-dummy-module",
   "devDependencies": {
-    "coffee-script": "^1.8.0"
+    "coffee-script": "1.9.1"
   },
   "dependencies": {
     "keldor-crash-handler": "^1.0.1"
